@@ -3,7 +3,7 @@
 
 # <p align=center>`Awesome High-Resolution Multimodal-LLMs`</p>
 
-:star2:**A collection of papers on Multimodal Large Language Models (MLLMs) for efficiently processing of high-resolution & large-size images.**
+:star2:**A collection of papers on Multimodal Large Language Models (MLLMs) specifically designed for efficiently processing of high-resolution & large-size images.**
 
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.07.16 :fire::fire::fire:
@@ -32,7 +32,7 @@
 |**Monkey**|Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models|CVPR2024|[link](https://arxiv.org/abs/2311.06607)|[link](https://github.com/Yuliang-Liu/Monkey)|
 |**InternVL 1.5/2.0**|How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites|CVPR2024|[link](https://arxiv.org/pdf/2404.16821)|[link](https://github.com/OpenGVLab/InternVL)|
 |**CogAgent**|CogAgent: A Visual Language Model for GUI Agents|CVPR2024|[link](https://arxiv.org/pdf/2312.08914)|[link](https://github.com/THUDM/CogVLM)|
-|**S$^2$-Wrapper**|When Do We Not Need Larger Vision Models?|ECCV2024|[link](https://arxiv.org/abs/2403.13043)|[link](https://github.com/bfshi/scaling_on_scales)|
+|**S<sup>2</sup>-Wrapper**|When Do We Not Need Larger Vision Models?|ECCV2024|[link](https://arxiv.org/abs/2403.13043)|[link](https://github.com/bfshi/scaling_on_scales)|
 |**LLaVA-HR**|Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models|Arxiv2024|[link](https://arxiv.org/abs/2403.03003)|[link](https://github.com/luogen1996/LLaVA-HR)|
 |**LLaVA-UHD**|LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images|Arxiv2024|[link](https://arxiv.org/pdf/2403.11703)|[link](https://github.com/thunlp/LLaVA-UHD)|
 |**TextMonkey**|TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document|Arxiv2024|[link](https://arxiv.org/abs/2403.04473)|[link](https://github.com/Yuliang-Liu/Monkey)|
@@ -41,7 +41,6 @@
 |**SliME**|Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models|Arxiv2024|[link](https://arxiv.org/abs/2406.08487)|[link](https://github.com/yfzhang114/SliME)|
 |**DeepSeek-VL**|DeepSeek-VL: Towards Real-World Vision-Language Understanding|Arxiv2024|[link](https://arxiv.org/pdf/2406.12275)|[link](https://github.com/deepseek-ai/DeepSeek-VL)|
 |**HiRes-LLaVA**|HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models|Arxiv2024|[link](https://arxiv.org/pdf/2407.08706)|None|
-|** **| |Arxiv2024|[link]( )|[link]( )|
 
 ## Efficient MLLMs for High-Resolution Imagery
 |Abbreviation|Title|Publication|Paper|Code & Weights|
@@ -61,9 +60,7 @@
 
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
-|**Llama3-Med**|Advancing High Resolution Vision-Language Models
-in Biomedicine|Arxiv2024|[link](https://arxiv.org/pdf/2406.09454)|[link](https://github.com/standardmodelbio/Llama3-Med)|
-|**RemoteCLIP**|**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**|Arxiv2023|[RemoteCLIP](https://arxiv.org/abs/2306.11029)|[link](https://github.com/ChenDelong1999/RemoteCLIP)|
+|**Llama3-Med**|Advancing High Resolution Vision-Language Models in Biomedicine|Arxiv2024|[link](https://arxiv.org/pdf/2406.09454)|[link](https://github.com/standardmodelbio/Llama3-Med)|
 
 
 
