@@ -14,9 +14,9 @@
 ## Table of Contents
 - **Models**
   - [General High-Resolution MLLMs](#general-high-resolution-mllms)
-  - [Other High-Resolution MLLMs](#other-high-resolution-mllms)
   - [Efficient MLLMs for High-Resolution Imagery](#efficient-mllms-for-high-resolution-imagery)
   - [Focus and Search MLLMs](#focus-and-search-mllms)
+  - [Other High-Resolution MLLMs](#other-high-resolution-mllms)
 - **Others**
   - [Relevant Projects](#relevant-projects)
   
