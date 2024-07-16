@@ -3,7 +3,7 @@
 
 # <p align=center>`Awesome High-Resolution Multimodal-LLMs`</p>
 
-:star2:**A collection of papers on Multimodal Large Language Models (MLLMs) specifically designed for efficiently processing of high-resolution & large-size images.**
+:star2:**A collection of papers on Multimodal Large Language Models (MLLMs) specifically designed for efficiently processing high-resolution or large-size images.**
 
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.07.16 :fire::fire::fire:
@@ -36,9 +36,9 @@
 |**LLaVA-UHD**|LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images|[Arxiv2024](https://arxiv.org/pdf/2403.11703)|LR+ Dyn. HR|[link](https://github.com/thunlp/LLaVA-UHD)|
 |**TextMonkey**|TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document|[Arxiv2024](https://arxiv.org/abs/2403.04473)|LR+HR|[link](https://github.com/Yuliang-Liu/Monkey)|
 |**Mini-Gemini**|Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models|[Arxiv2024](https://arxiv.org/pdf/2403.18814)|LR+ CNN HR|[link](https://github.com/dvlab-research/MGM)|
+|**DeepSeek-VL**|DeepSeek-VL: Towards Real-World Vision-Language Understanding|[Arxiv2024](https://arxiv.org/pdf/2403.05525)|LR+HR|[link](https://github.com/deepseek-ai/DeepSeek-VL)|
 |**InternLM-XComposer2-4KHD**|InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD|[Arxiv2024](https://arxiv.org/pdf/2404.06512)|LR+HR|[link](https://github.com/InternLM/InternLM-XComposer)|
 |**SliME**|Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models|[Arxiv2024](https://arxiv.org/abs/2406.08487)|LR+ Dyn. HR|[link](https://github.com/yfzhang114/SliME)|
-|**DeepSeek-VL**|DeepSeek-VL: Towards Real-World Vision-Language Understanding|[Arxiv2024](https://arxiv.org/pdf/2406.12275)|LR+HR|[link](https://github.com/deepseek-ai/DeepSeek-VL)|
 |**HiRes-LLaVA**|HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models|[Arxiv2024](https://arxiv.org/pdf/2407.08706)|LR+HR|None|
 
 ## Efficient MLLMs for High-Resolution Imagery
