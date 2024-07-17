@@ -52,8 +52,11 @@
 ## Focus and Search MLLMs
 |Abbreviation|Title|Publication|Method|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
-|**$V^*$**|$V^*$: Guided Visual Search as a Core Mechanism in Multimodal LLMs|[CVPR2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_V_Guided_Visual_Search_as_a_Core_Mechanism_in_Multimodal_CVPR_2024_paper.pdf)|Search+Zoom|[link](https://vstar-seal.github.io/)|
+|**V<sup>*</sup>**|$V^*$: Guided Visual Search as a Core Mechanism in Multimodal LLMs|[CVPR2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_V_Guided_Visual_Search_as_a_Core_Mechanism_in_Multimodal_CVPR_2024_paper.pdf)|Search+Zoom|[link](https://vstar-seal.github.io/)|
 |**DualFocus**|DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large Language Models|[Arxiv2024](https://arxiv.org/pdf/2402.14767)|Search+Zoom|[link](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/DualFocus)|
+|**Visual CoT**|Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning|[Arxiv2024](https://arxiv.org/pdf/2403.16999)|Focus+CoT|[link](https://github.com/deepcs233/Visual-CoT)|
+|**P<sup>2</sup>G**|Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models|[Arxiv2024](https://arxiv.org/pdf/2403.19322)|Focus+Ground Agent|None|
+|**TextCoT**|TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding|[Arxiv2024](https://arxiv.org/pdf/2404.09797)|Focus+Zoom|[link](https://github.com/bzluan/TextCoT)|
 
 ## Other High-Resolution MLLMs
 
