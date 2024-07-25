@@ -3,7 +3,7 @@
 
 # <p align=center>`Awesome High-Resolution Multimodal-LLMs`</p>
 
-:star2:**A collection of papers on Multimodal Large Language Models (MLLMs) specifically designed for efficiently processing high-resolution or large-size images.**
+:star2:**A collection of papers on Multimodal Large Language Models (MLLMs) specifically designed for efficiently processing high-resolution or large-size images. You are welcome to give an issue or PR!**
 
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.07.25 :fire::fire::fire:
