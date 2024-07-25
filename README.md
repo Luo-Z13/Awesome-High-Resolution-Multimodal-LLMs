@@ -41,6 +41,7 @@
 |**SliME**|Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models|[Arxiv2024](https://arxiv.org/abs/2406.08487)|LR+ Dyn. HR|[link](https://github.com/yfzhang114/SliME)|
 |**DeepStack**|DeepStack: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs|[Arxiv2024](https://arxiv.org/pdf/2406.04334)|LR+HR|[link](https://github.com/MengLcool/DeepStack-VL)|
 |**HiRes-LLaVA**|HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models|[Arxiv2024](https://arxiv.org/pdf/2407.08706)|LR+HR|None|
+|**INF-LLaVA**|INF-LLaVA: Dual-perspective Perception for High-Resolution Multimodal Large Language Model|[Arxiv2024](https://arxiv.org/pdf/2407.16198)|LR+HR|[link](https://github.com/WeihuangLin/INF-LLaVA)|
 
 ## Efficient MLLMs for High-Resolution Imagery
 |Abbreviation|Title|Publication|Method|Code & Weights|
