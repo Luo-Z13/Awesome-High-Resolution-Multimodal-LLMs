@@ -6,9 +6,9 @@
 :star2:**A collection of papers on Multimodal Large Language Models (MLLMs) specifically designed for efficiently processing high-resolution or large-size images.**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.07.18 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.07.25 :fire::fire::fire:
 
-- **2024.7.16**: Initial version.
+- **2024.7.25**: Add INF-LLaVA.
 
 
 ## Table of Contents
