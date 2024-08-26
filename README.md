@@ -6,8 +6,9 @@
 :star2:**A collection of papers on Multimodal Large Language Models (MLLMs) specifically designed for efficiently processing high-resolution or large-size images. You are welcome to give an issue or PR!**
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.07.25 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.08.26 :fire::fire::fire:
 
+- **2024.8.26**: Add FlexAttention, Mini-Monkey and HiRED.
 - **2024.7.25**: Add INF-LLaVA.
 
 
@@ -43,6 +44,8 @@
 |**HiRes-LLaVA**|HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models|[Arxiv2024](https://arxiv.org/pdf/2407.08706)|LR+HR|None|
 |**INF-LLaVA**|INF-LLaVA: Dual-perspective Perception for High-Resolution Multimodal Large Language Model|[Arxiv2024](https://arxiv.org/pdf/2407.16198)|LR+HR|[link](https://github.com/WeihuangLin/INF-LLaVA)|
 
+
+
 ## Efficient MLLMs for High-Resolution Imagery
 |Abbreviation|Title|Publication|Method|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
@@ -50,6 +53,13 @@
 |**LLaMA-VID**|LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models|[Arxiv2023](https://arxiv.org/pdf/2311.17043)|embedding compression|[link](https://github.com/dvlab-research/LLaMA-VID)|
 |**VoCo-LLaMA**|VoCo-LLaMA: Towards Vision Compression with Large Language Models|[Arxiv2024](https://arxiv.org/abs/2406.12275)|token compression|[link](https://yxxxb.github.io/VoCo-LLaMA-page/)|
 |**TokenPacker**|TokenPacker: Efficient Visual Projector for Multimodal LLM|[Arxiv2024](https://arxiv.org/abs/2407.02392)|token compression|[link](https://github.com/CircleRadon/TokenPacker)|
+|**FlexAttention**|FlexAttention for Efficient High-Resolution Vision-Language Models|[ECCV2024](https://arxiv.org/pdf/2407.20228)|attention+token select|[link](https://github.com/UMass-Foundation-Model/FlexAttention)|
+|**Mini-Monkey**|Mini-Monkey: Alleviate the Sawtooth Effect by Multi-Scale Adaptive Cropping|[Arxiv2024](https://arxiv.org/pdf/2408.02034v1)|multi scale+token compression|[link](https://github.com/Yuliang-Liu/Monkey)|
+|**HiRED**|HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments|[Arxiv2024](https://www.arxiv.org/pdf/2408.10945)|token drop|[link](https://github.com/hasanar1f/HiRED)|
+
+
+
+
 
 ## Focus and Search MLLMs
 |Abbreviation|Title|Publication|Method|Code & Weights|
@@ -59,6 +69,7 @@
 |**Visual CoT**|Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning|[Arxiv2024](https://arxiv.org/pdf/2403.16999)|Focus+CoT|[link](https://github.com/deepcs233/Visual-CoT)|
 |**P<sup>2</sup>G**|Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models|[Arxiv2024](https://arxiv.org/pdf/2403.19322)|Focus+Ground Agent|None|
 |**TextCoT**|TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding|[Arxiv2024](https://arxiv.org/pdf/2404.09797)|Focus+Zoom|[link](https://github.com/bzluan/TextCoT)|
+
 
 ## Other High-Resolution MLLMs
 
